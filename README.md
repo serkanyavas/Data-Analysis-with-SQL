@@ -1,2 +1,4 @@
 # Data Analysis with SQL 
-* made for Introduction to Big Data Analysis
+* Made for Introduction to Big Data Analysis
+* Dataset: Superhero Se
+  https://www.kaggle.com/claudiodavi/superhero-set
